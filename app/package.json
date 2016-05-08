@@ -1,0 +1,19 @@
+{
+  "name": "oauth2-studying-heucles",
+  "version": "1.0.0",
+  "description": "A project for buildin a oauth server arround a API within node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heucles <heucles@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.1",
+    "express": "~4.13.4",
+    "mongoose": "^4.4.15",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0"
+  }
+}
